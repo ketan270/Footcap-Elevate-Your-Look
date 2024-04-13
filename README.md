@@ -1,3 +1,6 @@
+![logo-no-background](https://github.com/ketan270/Footcap/assets/146920220/a5f4b42a-df65-48e9-8815-6ad468a8be2a)
+<br>
+
 Welcome to Footcap, where style meets comfort! Our website is designed to offer you a seamless shopping experience for premium footwear that will elevate your look. Whether you're looking for trendy sneakers, elegant heels, or comfortable everyday shoes, we've got you covered.
 ## Features
 
